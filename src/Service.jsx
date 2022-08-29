@@ -10,7 +10,7 @@ const Service =() => {
     </div>
     <div className="container-fluid mb-5">
           <div className='row'>
-            <div className="col-lg-11 col-md-15 mx-auto">
+            <div className="col-lg-10 col-md-15 mx-auto">
             <div className="row gy-4">
                 {
                     Sdata.map((val, ind)=>{
